@@ -72,7 +72,7 @@ body {
 .hero_area {
   height: 100vh;
   background-color: #b5caee;
-  background-image: url(../images/4.png);
+  background-image: url(../images/2.png);
   background-size: cover;
 }
 
@@ -186,13 +186,14 @@ a:focus {
 
 /*end header section*/
 .slider_section {
-  height: 90%;
+  height: 84%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+ background-color: #000000b3;
  
 }
 
@@ -579,6 +580,7 @@ a:focus {
   background-color: black;
   color: #fff;
   border-radius: 30px;
+  margin-right: 50px;
 }
 
 .contact_section .map_img-box {
@@ -757,7 +759,7 @@ div#img-box5{
   background-image: url(../images/lump4.jpg); 
   background-size: cover;
   background-position-x: center;
-  margin-left: 200px;
+  margin-left: 228px;
 
 }
 
